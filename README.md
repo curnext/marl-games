@@ -227,5 +227,6 @@ X, Y, DX, DY = DiGrid.lenient_boltzmann_replicator_dynamics(
 
 ## References
 1. **Q-Learning**: Watkins, C.J.C.H. (1989). *Learning from Delayed Rewards*.
-2. **Boltzmann Exploration**: Sutton & Barto (2018). *Reinforcement Learning: An Introduction*.
-3. **Lenient Learning**: Panait et al. (2008). *Theoretical Advantages of Lenient Learners*.
+2. **Epsilon-Greedy Dynamics**: Wunder et al. (2010). *Dynamic Analysis of Multiagent Q-learning with Epsilon-Greedy Exploration*.
+3. **Boltzmann Exploration**: Sutton & Barto (2018). *Reinforcement Learning: An Introduction*.
+4. **Lenient Learning**: Panait et al. (2008). *Theoretical Advantages of Lenient Learners*.
